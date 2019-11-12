@@ -1,0 +1,17 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "main": "src/index.html",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "jest": "^24.9.0",
+    "jest-cli": "^24.9.0"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "jest test --watch"
+  }
+}
